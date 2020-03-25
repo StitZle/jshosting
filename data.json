@@ -1,0 +1,69 @@
+{
+    "id": "6cf4f2e4-28d8-42b2-8d19-cb9d4198e9ee",
+    "businessPhones": "+49 761 296979-652",
+    "displayName": "Niclas Bürger",
+    "acronym": "nibu",
+    "givenName": "Niclas",
+    "jobTitle": "Auszubildender",
+    "mail": "Niclas.Buerger@inxmail.de",
+    "officeLocation": null,
+    "surname": "Bürger",
+    "userPrincipalName": "nibu@inxmail.de",
+    "teamsLink": "https://teams.microsoft.com/l/chat/0/0?users=nibu@inxmail.de",
+    "manager": {
+        "displayName": "Falco Knapp",
+        "mail": "Falco.Knapp@inxmail.de",
+        "userPrincipalName": "fakn@inxmail.de",
+        "id": "7771d3a6-2510-4449-becb-27e15347b7ab"
+    },
+    "entryDate": null,
+    "userTeams": [
+        {
+            "id": "8a21f73f-89cb-4cf6-9155-1ae62d020eb3",
+            "onPremisesSamAccountName": "team-connected-solutions"
+        },
+        {
+            "id": "b6f142f3-9d47-4561-a2c6-c577d25d14c7",
+            "onPremisesSamAccountName": "team-backoffice-it"
+        }
+    ],
+    "userRoles": [
+        {
+            "id": "99ad8938-3a5c-48de-8cec-5daaf5323753",
+            "onPremisesSamAccountName": "rolle-atlassian-test-confluence-admin",
+            "displayName": null,
+            "link": null,
+            "pageID": null
+        },
+        {
+            "id": "0ab44541-6e64-4c12-8def-b093e315e74b",
+            "onPremisesSamAccountName": "rolle-backoffice-it-service",
+            "displayName": null,
+            "link": null,
+            "pageID": null
+        },
+        {
+            "id": "bfb44b4f-90c2-43a4-8422-d2d36707fe3f",
+            "onPremisesSamAccountName": "rolle-inxmail-mitarbeiter",
+            "displayName": null,
+            "link": null,
+            "pageID": null
+        },
+        {
+            "id": "21443b67-3205-402e-b76e-5eca8da696e1",
+            "onPremisesSamAccountName": "rolle-inxmail-de-mitarbeiter",
+            "displayName": null,
+            "link": null,
+            "pageID": null
+        },
+        {
+            "id": "768f22a5-c597-4f7f-8705-3b8a342036f5",
+            "onPremisesSamAccountName": "rolle-connected-solutions-undefined",
+            "displayName": null,
+            "link": null,
+            "pageID": null
+        }
+    ],
+    "userDistricts": [],
+    "noData": "-"
+}
